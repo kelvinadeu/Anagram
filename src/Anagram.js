@@ -29,7 +29,7 @@ class Anagram extends React.Component {
 					<input type="text" placeholder="word 2"  ref={element => this.input2 = element} />
 					<br />
 
-					<button type="submit">"Anagram"</button>
+					<button type="submit">Anagram</button>
 				</form>
 
 				<p>ANAGRAM TEST: {this.state.anagram?"True":"False"}</p>

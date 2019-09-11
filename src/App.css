@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  font-size: 60px;
+  font-weight: 300;
+  font-family: sans-serif;
+  font-color: #fff;
 }
 
 .App-logo {
@@ -30,4 +34,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.App-h3{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: hsl(360, 100%, 100%);
 }

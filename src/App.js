@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h3>Anagram Test</h3>
+        <h3>Anagram Test App</h3>
         <Anagram />
       </header>
     </div>
